@@ -27,7 +27,8 @@ This dashboard solves these challenges by providing real-time visual tracking of
 
 ## 📊 Dataset
 
-The dataset used for this analysis includes comprehensive transactional data from Blinkit outlets, capturing key attributes such as:
+The dataset used for this analysis includes comprehensive transactional data from Blinkit outlets, capturing key attributes such as:[Blinkit.xlsx](https://github.com/user-attachments/files/30082513/Blinkit.xlsx)
+
 
 * **Sales Metrics:** Total Sales, Average Sales, Item MRP.
 * **Product Attributes:** Item Category (Type), Fat Content (Low Fat vs. Regular).
