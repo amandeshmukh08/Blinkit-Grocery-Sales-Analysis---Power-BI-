@@ -69,6 +69,7 @@ Based on the dashboard analysis:
 ## 🖥️ Dashboard Output
 
 Here is the final look of the interactive dashboard:
+
 <img width="1167" height="657" alt="Blinkit_Sales_Analysis" src="https://github.com/user-attachments/assets/140026b1-7114-4544-a4e2-c8f8e23d6857" />
 
 
